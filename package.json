@@ -1,0 +1,12 @@
+{
+  "name": "angular-dynamic-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "child-one.component.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/core": "^4.3.1",
+    "@angular/platform-browser-dynamic": "^4.3.1"
+  }
+}
